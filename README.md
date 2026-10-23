@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+Live site: https://tammyalbindev.github.io/week-1-checkpoint/
+
 ## My setup
 
 - Operating system: ChromeOS (Chromebook Linux)
