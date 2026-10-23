@@ -21,3 +21,6 @@ Live site: https://tammyalbindev.github.io/week-1-checkpoint/
 | 5 | Added an About me section | Add about me section | main |
 | 6 | Added a list of things I like | Add list of things I like | main |
 | 7 | Added my goals | Add my goals section | main |
+| 8 | Added links to websites I like | Add links to a site i like | main |
+| 9 | Added pictures to my webpage | Add pictures | main |
+| 10 | Added my live website link | Add live site link to README | main |
